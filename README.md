@@ -1,16 +1,5 @@
 # api
+in this repo i'm learning about different api and building small app. here i've practiced and pushed two different apps with two different api.
+A simple Flutter-based weather application that allows users to check the current weather conditions of any city. The app fetches data from the OpenWeather API and displays the weather information, including temperature, weather description, wind speed, and humidity.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![lahore](https://github.com/user-attachments/assets/7b287a68-0598-4342-8273-b1e590a583b0)
